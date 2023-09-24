@@ -74,5 +74,5 @@
 ![Alt text](./Pictures/Picture-10.png)
 
 
-##  [>> หัวข้อค่อไป >>](./MQTT_Sheet_lab_2.md) 
+##  [>> หัวข้อต่อไป >>](./MQTT_Sheet_lab_2.md) 
 
