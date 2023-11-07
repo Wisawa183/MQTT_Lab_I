@@ -70,6 +70,12 @@
 
 ตัวอย่างผลที่ได้
 
+![MQTT_LAB1_1](https://github.com/Wisawa183/MQTT_Lab_I/assets/115066431/20f8606c-a6fc-4a63-90bd-c820fd2a33be)
+
+![MQTT_LAB1_2](https://github.com/Wisawa183/MQTT_Lab_I/assets/115066431/02179d02-7841-4532-8b7c-8fa2a056bf78)
+
+
+
 
 ![Alt text](./Pictures/Picture-10.png)
 
